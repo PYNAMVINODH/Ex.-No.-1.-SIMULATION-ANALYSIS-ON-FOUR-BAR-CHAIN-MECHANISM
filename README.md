@@ -1,6 +1,6 @@
-# Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+# Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 26.09.2024
 
 ## AIM:
 
@@ -53,15 +53,10 @@
 
 
 ## Output:
-![Screenshot 2023-12-26 091950](https://github.com/ramsai22/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150319855/02022229-332b-4da1-9524-d7c45b5c94f3)
+### Name: PYNAM VINODH
+### Register Number:212223240131
 
-![Screenshot 2023-12-26 091651](https://github.com/ramsai22/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150319855/c76c74f4-7dc3-434e-8113-ba1f3df9a50d)
-
-![Screenshot 2023-12-26 091719](https://github.com/ramsai22/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150319855/344a5dba-924b-4e40-990a-70115c0ac2a5)
-
-
-### Name:PYNAM VINODH
-### Register Number: 212223240131
+![image](https://github.com/user-attachments/assets/272c915b-4efa-4fef-a2da-460890739449)
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
